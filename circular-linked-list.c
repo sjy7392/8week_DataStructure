@@ -17,10 +17,8 @@ int deleteLast(listNode* h);
 int insertFirst(listNode* h, int key);
 int deleteFirst(listNode* h);
 int invertList(listNode* h);
-
 int insertNode(listNode* h, int key);
 int deleteNode(listNode* h, int key);
-
 void printList(listNode* h);
 
 int main()
